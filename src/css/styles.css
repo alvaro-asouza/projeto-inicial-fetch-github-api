@@ -65,6 +65,21 @@ main {
   font-weight: bold;
 }
 
+.repo i{
+  margin: 2px;
+  width: 10px;
+  height: 10px;
+  background-color: #24292e;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.event{
+  display: flex;
+  gap: 20px;
+}
+
+
 .container header #input-search {
   width: 400px;
   font-size: 17px;
