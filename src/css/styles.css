@@ -60,6 +60,11 @@ main {
   margin-bottom: 30px;
 }
 
+.text{
+  color: red;
+  font-weight: bold;
+}
+
 .container header #input-search {
   width: 400px;
   font-size: 17px;
