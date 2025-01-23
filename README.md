@@ -22,7 +22,8 @@ Projeto do curso DevQuest usando fetch no JS para buscar um usuário na API do G
 
 ## Como usar
 1. Clone o repositório
-2. Abra index.html no navegador
+2. Abra index.html no navegador ou se preferir, abra o link abaixo no seu navegador
+[Demo](https://alvaro-asouza.github.io/projeto-inicial-fetch-github-api/)
 
 ## Layout
 
